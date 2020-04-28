@@ -1,0 +1,4 @@
+数据集：MarketBasket
+下载地址：https://www.kaggle.com/dragonheir/basket-optimisation
+该数据集为rawdata，没有记录TransactionID和列名
+ToDo：统计交易中的频繁项集和关联规则
