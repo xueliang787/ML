@@ -1,0 +1,6 @@
+数据集：MovieActors
+来源：movie_actors.csv
+爬虫抓取 movie_actors_download.py
+格式：title	actors
+记录了电影标题和演员列表
+我们可以分析下电影演员之间的频繁项集和关联规则
