@@ -1,0 +1,4 @@
+Delicious数据集：
+1867名用户，105000个书签，53388个标签
+https://grouplens.org/datasets/hetrec-2011/
+格式：userID     bookmarkID     tagID     timestamp
