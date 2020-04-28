@@ -1,0 +1,7 @@
+数据集：MovieLens
+下载地址：https://www.kaggle.com/jneupane12/movielens/download
+主要使用的文件：movies.csv
+格式：movieId	title	genres
+记录了电影ID，标题和分类
+我们可以分析下电影分类之间的频繁项集和关联规则
+MovieLens 主要使用 Collaborative Filtering 和 Association Rules 相结合的技术，向用户推荐他们感兴趣的电影。
