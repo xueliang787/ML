@@ -1,1 +1,3 @@
-textrank4zh,snownlp
+textrank4zh,snownlp,jieba.textrank
+
+
