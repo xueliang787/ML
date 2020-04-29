@@ -10,4 +10,6 @@ Visualization是可视化
 
 question是面试可能问的问题
 
+paper是一些论文
+
 note.md 是一些需要注意的地方
