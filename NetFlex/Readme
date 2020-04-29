@@ -1,0 +1,5 @@
+对Netflix数据集进行评分预测
+数据集：https://www.kaggle.com/netflix-inc/netflix-prize-data
+工具：使用Surprise
+RMSE计算：针对probe数据集进行计算
+数据集切分：如果单机运算量大，可以对数据集进行切分，用子集进行评分预测（训练集、测试集）
