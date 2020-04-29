@@ -1,1 +1,4 @@
 协同过滤
+
+pip install scikit-surprise
+文档：https://surprise.readthedocs.io/en/stable/
