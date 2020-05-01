@@ -1,6 +1,6 @@
 cluster 是聚类
 
-mnist、titanic、Netflix是经典数据集
+mnist、titanic、Netflix、cifar10是经典数据集
 
 association rules是关联规则
 
