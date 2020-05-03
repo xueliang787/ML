@@ -8,6 +8,8 @@ recommendation是推荐，包含基于内容推荐、协同过滤推荐等
 
 Visualization是可视化
 
+Kaggle是参加的比赛
+
 question是面试可能问的问题
 
 paper是一些论文
